@@ -37,7 +37,224 @@ module.exports = function() {
 				
 				dividir: function(numero1, numero2) {
 					return numero1 / numero2;
-				}
+				},
+
+                multaLivro: function(numero1) {
+                    return numero1 * 1;
+                },
+
+                somarMultaLivroapos30dias: function(numero1) {
+
+                    resultado = Number(0);
+                    resultado += numero1;
+                    resultado += 1;
+                    resultado += 1;
+                    resultado += 1;
+                    resultado += 1;
+                    resultado += 1;
+                    resultado += 1;
+                    resultado += 1;
+                    resultado += 1;
+                    resultado += 1;
+                    resultado += 1;
+                    resultado += 1;
+                    resultado += 1;
+                    resultado += 1;
+                    resultado += 1;
+                    resultado += 1;
+                    resultado += 1;
+                    resultado += 1;
+                    resultado += 1;
+                    resultado += 1;
+                    resultado += 1;
+                    resultado += 1;
+                    resultado += 1;
+                    resultado += 1;
+                    resultado += 1;
+                    resultado += 1;
+                    resultado += 1;
+                    resultado += 1;
+                    resultado += 1;
+                    resultado += 1;
+                    return resultado;
+                },
+
+                multaObraReferencia: function(numero1) {
+                    return numero1 * 3;
+                },
+
+                somaMultaObraReferenciaApos40dias: function(numero1) {
+                    resultado = Number(0);
+                    resultado += numero1;
+                    resultado += 3;
+                    resultado += 3;
+                    resultado += 3;
+                    resultado += 3;
+                    resultado += 3;
+                    resultado += 3;
+                    resultado += 3;
+                    resultado += 3;
+                    resultado += 3;
+                    resultado += 3;
+                    resultado += 3;
+                    resultado += 3;
+                    resultado += 3;
+                    resultado += 3;
+                    resultado += 3;
+                    resultado += 3;
+                    resultado += 3;
+                    resultado += 3;
+                    resultado += 3;
+                    resultado += 3;
+                    resultado += 3;
+                    resultado += 3;
+                    resultado += 3;
+                    resultado += 3;
+                    resultado += 3;
+                    resultado += 3;
+                    resultado += 3;
+                    resultado += 3;
+                    resultado += 3;
+                    resultado += 3;
+                    resultado += 3;
+                    resultado += 3;
+                    resultado += 3;
+                    resultado += 3;
+                    resultado += 3;
+                    resultado += 3;
+                    resultado += 3;
+                    resultado += 3;
+                    resultado += 3;
+                    return resultado;
+                },
+
+                multaRevista: function(numero1) {
+                    return numero1 * 2;
+                },
+
+                somaMultaRevistaapos40dias: function(numero1) {
+                    resultado = Number(0);
+                    resultado += numero1;
+                    resultado += 2;
+                    resultado += 2;
+                    resultado += 2;
+                    resultado += 2;
+                    resultado += 2;
+                    resultado += 2;
+                    resultado += 2;
+                    resultado += 2;
+                    resultado += 2;
+                    resultado += 2;
+                    resultado += 2;
+                    resultado += 2;
+                    resultado += 2;
+                    resultado += 2;
+                    resultado += 2;
+                    resultado += 2;
+                    resultado += 2;
+                    resultado += 2;
+                    resultado += 2;
+                    resultado += 2;
+                    resultado += 2;
+                    resultado += 2;
+                    resultado += 2;
+                    resultado += 2;
+                    resultado += 2;
+                    resultado += 2;
+                    resultado += 2;
+                    resultado += 2;
+                    resultado += 2;
+                    resultado += 2;
+                    resultado += 2;
+                    resultado += 2;
+                    resultado += 2;
+                    resultado += 2;
+                    resultado += 2;
+                    resultado += 2;
+                    resultado += 2;
+                    resultado += 2;
+                    resultado += 2;
+                    return resultado;
+                },
+
+                multaJornal: function(numero1) {
+                    return numero1 * 5;
+                },
+
+                somarMultaJornalapos40dias: function(numero1) {
+                   resultado = Number(0);
+                    resultado += numero1;
+                    resultado += 5;
+                    resultado += 5;
+                    resultado += 5;
+                    resultado += 5;
+                    resultado += 5;
+                    resultado += 5;
+                    resultado += 5;
+                    resultado += 5;
+                    resultado += 5;
+                    resultado += 5;
+                    resultado += 5;
+                    resultado += 5;
+                    resultado += 5;
+                    resultado += 5;
+                    resultado += 5;
+                    resultado += 5;
+                    resultado += 5;
+                    resultado += 5;
+                    resultado += 5;
+                    resultado += 5;
+                    resultado += 5;
+                    resultado += 5;
+                    resultado += 5;
+                    resultado += 5;
+                    resultado += 5;
+                    resultado += 5;
+                    resultado += 5;
+                    resultado += 5;
+                    resultado += 5;
+                    resultado += 5;
+                    resultado += 5;
+                    resultado += 5;
+                    resultado += 5;
+                    resultado += 5;
+                    resultado += 5;
+                    resultado += 5;
+                    resultado += 5;
+                    resultado += 5;
+                    resultado += 5;
+                    resultado += 5;
+                    return resultado;
+                },
+
+
+
+                somarMultasRevistaEJornalApos10Dias: function(numero1) {
+                    resultado = Number(0);
+                    resultado += numero1;
+                    resultado += 2;
+                    resultado += 2;
+                    resultado += 2;
+                    resultado += 2;
+                    resultado += 2;
+                    resultado += 2;
+                    resultado += 2;
+                    resultado += 2;
+                    resultado += 2;
+                    resultado += 5;
+                    resultado += 5;
+                    resultado += 5;
+                    resultado += 5;
+                    resultado += 5;
+                    resultado += 5;
+                    resultado += 5;
+                    resultado += 5;
+                    resultado += 5;
+                    resultado += 5;
+                    return resultado;
+                }
+
+
 			},
 			
 			validaParametro: function(parametro) {
