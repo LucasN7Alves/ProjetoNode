@@ -5,7 +5,7 @@
   "main": "server.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/LucasN7Alves/ProjetoPI.git"
+    "url": "https://github.com/LucasN7Alves/ProjetoNode.git"
   },
   "scripts": {
     "start": "node server.js",
@@ -14,7 +14,7 @@
   "engines": {
     "node": "0.12.2"
   },
-  "homepage": "https://github.com/LucasN7Alves/ProjetoPI",
+  "homepage": "https://github.com/LucasN7Alves/ProjetoNode",
   "dependencies": {
     "accounting": "^0.4.1",
     "body-parser": "^1.12.4",
